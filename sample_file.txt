@@ -1,0 +1,4 @@
+we are using the cat >> file.txt to write in the file
+this commands write the multiline and append version in the file 
+we are in the beigner phase for learning devops
+now for savethe file we will use the ctrl + D
